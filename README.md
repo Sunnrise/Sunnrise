@@ -50,8 +50,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sunnrise/Sunnrise/output/snake.svg" alt="Snake animation" />
-
-###
