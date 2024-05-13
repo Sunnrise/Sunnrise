@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif"  />
+  <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif"  />
 </div>
 
 ###
