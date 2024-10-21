@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnrise" alt="sunnrise" /></a> </p>
 
-- 🌱 I’m currently learning Web API, CQRS Pattern, Clean Architecture
+- 🌱 I’m currently learning Domain Driven Design, ABP Framework
 
 - 📫 How to reach me **alperengunes.eng@gmail.com**
 
